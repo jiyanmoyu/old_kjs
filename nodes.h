@@ -25,7 +25,7 @@
 #ifndef _NODES_H_
 #define _NODES_H_
 
-#include "../kjs/internal.h"
+#include "internal.h"
 //#include "debugger.h"
 #ifndef NDEBUG
 #ifndef __osf__

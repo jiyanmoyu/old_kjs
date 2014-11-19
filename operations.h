@@ -23,7 +23,7 @@
 #ifndef _KJS_OPERATIONS_H_
 #define _KJS_OPERATIONS_H_
 
-#include "../kjs/value.h"
+#include "value.h"
 
 #define _isnan isnan
 

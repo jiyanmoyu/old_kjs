@@ -25,8 +25,8 @@
 #define _KJS_FUNCTION_H_
 
 //#include "object.h"
-#include "../kjs/internal.h"
-#include "../kjs/array_instance.h"
+#include "internal.h"
+#include "array_instance.h"
 #include <ctype.h>
 
 namespace KJS {

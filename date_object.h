@@ -22,7 +22,7 @@
 #ifndef _DATE_OBJECT_H_
 #define _DATE_OBJECT_H_
 
-#include "../kjs/internal.h"
+#include "internal.h"
 #include "function_object.h"
 
 #include <sys/time.h>

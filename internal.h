@@ -25,12 +25,12 @@
 #ifndef _INTERNAL_H_
 #define _INTERNAL_H_
 
-#include "../kjs/ustring.h"
-#include "../kjs/value.h"
-#include "../kjs/object.h"
-#include "../kjs/types.h"
-#include "../kjs/interpreter.h"
-#include "../kjs/scope_chain.h"
+#include "ustring.h"
+#include "value.h"
+#include "object.h"
+#include "types.h"
+#include "interpreter.h"
+#include "scope_chain.h"
 
 #define I18N_NOOP(s) s
 
