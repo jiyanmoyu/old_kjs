@@ -22,7 +22,7 @@
 #ifndef _STRING_OBJECT_H_
 #define _STRING_OBJECT_H_
 
-#include "../kjs/internal.h"
+#include "internal.h"
 #include "function_object.h"
 
 namespace KJS {

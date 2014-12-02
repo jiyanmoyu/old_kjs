@@ -23,7 +23,7 @@
 #ifndef KJS_LIST_H
 #define KJS_LIST_H
 
-#include "../kjs/value.h"
+#include "value.h"
 
 #define MIN(a,b) (a) < (b) ? (a) : (b)
 

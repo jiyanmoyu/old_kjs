@@ -25,9 +25,9 @@
 #ifndef _KJS_INTERPRETER_H_
 #define _KJS_INTERPRETER_H_
 
-#include "../kjs/value.h"
-#include "../kjs/object.h"
-#include "../kjs/types.h"
+#include "value.h"
+#include "object.h"
+#include "types.h"
 //#include "context.h"
 
 namespace KJS {

@@ -23,8 +23,8 @@
 #ifndef _KJS_REFERENCE_H_
 #define _KJS_REFERENCE_H_
 
-#include "../kjs/identifier.h"
-#include "../kjs/value.h"
+#include "identifier.h"
+#include "value.h"
 
 namespace KJS {
 

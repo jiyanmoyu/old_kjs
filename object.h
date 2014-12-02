@@ -39,11 +39,11 @@
 #endif
 
 //#include "value.h"
-#include "../kjs/types.h"
-#include "../kjs/reference_list.h"
-#include "../kjs/property_map.h"
-#include "../kjs/scope_chain.h"
-#include "../kjs/list.h"
+#include "types.h"
+#include "reference_list.h"
+#include "property_map.h"
+#include "scope_chain.h"
+#include "list.h"
 
 namespace KJS {
 

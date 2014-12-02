@@ -37,7 +37,7 @@
 #include <stdlib.h> // Needed for size_t
 
 #include "ustring.h"
-#include "../kjs/simple_number.h"
+#include "simple_number.h"
 
 // Primitive data types
 

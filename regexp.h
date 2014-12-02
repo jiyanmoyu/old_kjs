@@ -24,7 +24,7 @@
 
 #include <sys/types.h>
 
-#include "../kjs/config.h"
+#include "config.h"
 
 #ifdef HAVE_PCREPOSIX
 #include "../pcre/pcre.h"

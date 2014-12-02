@@ -63,7 +63,7 @@ RegExp::RegExp(const UString &p, int flags)
   regflags |= REG_EXTENDED;
 #endif
 #ifdef REG_ICASE
-  if ( f & IgnoreCase )
+  if ( flags & IgnoreCase )
     regflags |= REG_ICASE;
 #endif
 
